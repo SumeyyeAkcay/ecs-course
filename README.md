@@ -5,3 +5,4 @@ Hafta 1 Ders 1: [Python Temelleri Colab](https://colab.research.google.com/drive
 Hafta 2 Ders 1: [Python Temelleri Devam](https://colab.research.google.com/drive/1C6szXYEcygpXRNVRiFcVJMK6p5vpWUbc?usp=sharing) <br>
 Hafta 2 Ders 2: [Python Temelleri Devam](https://colab.research.google.com/drive/1B6YF_LE3PMMA2A151OkVA4Zem2UU-307?usp=sharing) <br>
 Hafta 2 Ders 2: [Numpy](https://colab.research.google.com/drive/1LP0Tke82iRQvf-WUbItcWhiQjG4kJTzi?usp=sharing) <br>
+Hafta 3 Ders 1: [Numpy 2](https://colab.research.google.com/drive/1nvRdKhCOoqEgXmMwfPgPaE9t5ZI85Jhv) <br>
