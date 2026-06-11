@@ -11,3 +11,4 @@ Hafta 3 Ders 2: [Pandas-devam](https://colab.research.google.com/drive/1u9VcMgmF
 Hafta 3/4 Ders 2 - NB-2: [Tips Veri Seti-devam](https://colab.research.google.com/drive/1qRU73nTKSmGPcqwDHWKOZhPynqTDNJij#scrollTo=hosC0DSuAPe4) <br>
 Gemini Canvas Ödev:
 Hafta 5 Ders 1: [Titanic](https://www.kaggle.com/code/sumeyyeakcay/vb-yz-titanic-veri-analizi) <br>
+Hafta 5 Ders 2 Ödev: [Teachable Mach](https://colab.research.google.com/drive/1KMoztURslpTN8hK3ZPTBGGp0EILTnY-j#scrollTo=vOrg3Qknxt4T) <br>
