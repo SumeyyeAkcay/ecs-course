@@ -1,0 +1,7 @@
+0 İğrenmiş
+1 Kızgın
+2 Korkmuş
+3 Mutlu
+4 Nötr
+5 Üzgün
+6 Şaşkın
