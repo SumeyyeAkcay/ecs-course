@@ -13,4 +13,4 @@ Gemini Canvas Ödev: [Tip Veri Seti İçin Analiz Sayfası](https://gemini.googl
 Hafta 5 Ders 1: [Titanic](https://www.kaggle.com/code/sumeyyeakcay/vb-yz-titanic-veri-analizi) <br>
 Hafta 5 Ders 2: [TM Model Oluşturma ve Deploy Web, Python ve Android](https://colab.research.google.com/drive/1KMoztURslpTN8hK3ZPTBGGp0EILTnY-j#scrollTo=vOrg3Qknxt4T) <br>
 Hafta 5 Ders 2 Ödev: [Teachable Mach Ödev](https://colab.research.google.com/drive/1n7KfWwNDAiQV76eirGl9BBqPBAuN4oh9#scrollTo=tvPNFwrfPjqh)<br>
-Hafta 6 Ders 1 / Telafi: [Titanic](https://www.kaggle.com/code/sumeyyeakcay/vb-yz-titanic-veri-analizi)<br>
+Hafta 6 Ders 1 / Telafi: [Titanic devam](https://www.kaggle.com/code/sumeyyeakcay/vb-yz-titanic-veri-analizi)<br>
