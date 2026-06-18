@@ -15,4 +15,4 @@ Hafta 5 Ders 2: [TM Model Oluşturma ve Deploy Web, Python ve Android](https://c
 Hafta 5 Ders 2 Ödev: [Teachable Mach Ödev - Face Expressions](https://colab.research.google.com/drive/1n7KfWwNDAiQV76eirGl9BBqPBAuN4oh9#scrollTo=tvPNFwrfPjqh)<br>
 Hafta 6 Ders 1 / Telafi: [Titanic devam](https://www.kaggle.com/code/sumeyyeakcay/vb-yz-titanic-veri-analizi)<br>
 Hafta 6 Ders 2: [Titanic devam](https://www.kaggle.com/code/sumeyyeakcay/vb-yz-titanic-veri-analizi)<br>
-Hafta 6 Ders 3:
+Hafta 6 Ders 3: [İkinci El Araç Fiyat Tahmini](https://colab.research.google.com/drive/1GQaqjRERjVBHDjpFpSvGfAy6gdRIxJF0)<br>
