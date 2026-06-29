@@ -17,4 +17,5 @@ Hafta 4 Ders 2 / Telafi: [Titanic devam](https://www.kaggle.com/code/sumeyyeakca
 Hafta 6 Ders 1-2: [Titanic devam](https://www.kaggle.com/code/sumeyyeakcay/vb-yz-titanic-veri-analizi)<br>
 Hafta 6 Ders 2: [İkinci El Araç Fiyat Tahmini](https://colab.research.google.com/drive/1GQaqjRERjVBHDjpFpSvGfAy6gdRIxJF0)<br>
 Hafta 7 Ders 1: [İkinci El Araç Tahmin Model Dosyası](https://github.com/SumeyyeAkcay/ecs-course/blob/main/model/car_pipe.pkl)<br>
+Hafta 7 Ödev: [2. El Araç Fiyat Tahmin Sitesi]()<br>
 
