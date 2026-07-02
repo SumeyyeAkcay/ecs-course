@@ -22,6 +22,6 @@ Hafta 7 Ders 2: [Gradio ile Basit Form Oluşturma & Google AGY](https://colab.re
 Hafta 7 Ders 3: [Covid - Yarışan Grafikler](https://colab.research.google.com/drive/1NVIxqNxzSom7sbEDkwgGGnlPXbi3koRr)<br>
 Hafta 7 Ödev 2: [Nüfus Değişimi Grafiği]()<br>
 Hafta 7 Ders 3 - 2 NB: [Farklı Kaynaklardan Veri Okuma- Çekme](https://colab.research.google.com/drive/1Bs32TuADmkN1GqMhanppIeqhq7NOjaz1)<br>
-Hafta 7 Ders 3 - 3 NB: [Bing Görsel İndirme](https://colab.research.google.com/drive/1bQYFIHYVDuNk9W4kIEYzXspsMyDFs78W#scrollTo=milLutntZdTg)<br>
+Hafta 7 Ders 3 - 3 NB: [Bing Arama Motoruyla Görsel İndirme](https://colab.research.google.com/drive/1bQYFIHYVDuNk9W4kIEYzXspsMyDFs78W#scrollTo=milLutntZdTg)<br>
 
 
