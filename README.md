@@ -21,5 +21,6 @@ Hafta 7 Ödev: [2. El Araç Fiyat Tahmin Sitesi](https://huggingface.co/spaces/S
 Hafta 7 Ders 2: [Gradio ile Basit Form Oluşturma & Google AGY](https://colab.research.google.com/drive/1CGhzo2IioAIWqOk3Yx4tPvh5wO6BQTfv)<br>
 Hafta 7 Ders 3: [Covid - Yarışan Grafikler](https://colab.research.google.com/drive/1NVIxqNxzSom7sbEDkwgGGnlPXbi3koRr)<br>
 Hafta 7 Ödev 2: [Nüfus Değişimi Grafiği]()<br>
+Hafta 7 Ders 3 - 2 NB [Farklı Kaynaklardan Veri Okuma- Çekme, Bing Görsel İndirme](https://colab.research.google.com/drive/1Bs32TuADmkN1GqMhanppIeqhq7NOjaz1)<br>
 
 
