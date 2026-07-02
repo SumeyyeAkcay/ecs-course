@@ -20,5 +20,6 @@ Hafta 7 Ders 1: [İkinci El Araç Tahmin Model Dosyası](https://github.com/Sume
 Hafta 7 Ödev: [2. El Araç Fiyat Tahmin Sitesi](https://huggingface.co/spaces/Smyye/AracFiyatTahmin)<br>
 Hafta 7 Ders 2: [Gradio ile Basit Form Oluşturma & Google AGY](https://colab.research.google.com/drive/1CGhzo2IioAIWqOk3Yx4tPvh5wO6BQTfv)<br>
 Hafta 7 Ders 3: [Covid - Yarışan Grafikler](https://colab.research.google.com/drive/1NVIxqNxzSom7sbEDkwgGGnlPXbi3koRr)<br>
+Hafta 7 Ödev 2: [Nüfus Değişimi Grafiği]()<br>
 
 
