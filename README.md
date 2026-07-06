@@ -20,8 +20,9 @@ Hafta 7 Ders 1: [İkinci El Araç Tahmin Model Dosyası](https://github.com/Sume
 Hafta 7 Ödev: [2. El Araç Fiyat Tahmin Sitesi](https://huggingface.co/spaces/Smyye/AracFiyatTahmin)<br>
 Hafta 7 Ders 2: [Gradio ile Basit Form Oluşturma & Google AGY](https://colab.research.google.com/drive/1CGhzo2IioAIWqOk3Yx4tPvh5wO6BQTfv)<br>
 Hafta 7 Ders 3: [Covid - Yarışan Grafikler](https://colab.research.google.com/drive/1NVIxqNxzSom7sbEDkwgGGnlPXbi3koRr)<br>
-Hafta 7 Ödev 2: [Nüfus Değişimi Grafiği]()<br>
+Hafta 7 Ödev 2: [Nüfus Değişimi Grafiği](https://colab.research.google.com/drive/1wx9EbA5tP6GGZld_S5RISWs87Im2HBDy#scrollTo=ewYGNkpcfs8T)<br>
 Hafta 7 Ders 3 - 2 NB: [Farklı Kaynaklardan Veri Okuma- Çekme](https://colab.research.google.com/drive/1Bs32TuADmkN1GqMhanppIeqhq7NOjaz1)<br>
 Hafta 7 Ders 3 - 3 NB: [Bing Arama Motoruyla Görsel İndirme](https://colab.research.google.com/drive/1bQYFIHYVDuNk9W4kIEYzXspsMyDFs78W#scrollTo=milLutntZdTg)<br>
+Hafta 8 Ders 1: [Müşteri Kayıp Analizi (Churn)](https://colab.research.google.com/drive/1fF2JBYCth4HPVdQlRcZO-fAWyPtWveWE)<br>
 
 
