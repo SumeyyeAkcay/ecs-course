@@ -23,7 +23,7 @@ Hafta 7 Ders 3: [Covid - Yarışan Grafikler](https://colab.research.google.com/
 Hafta 7 Ödev 2: [Nüfus Değişimi Grafiği](https://colab.research.google.com/drive/1wx9EbA5tP6GGZld_S5RISWs87Im2HBDy#scrollTo=ewYGNkpcfs8T)<br>
 Hafta 7 Ders 3 - 2 NB: [Farklı Kaynaklardan Veri Okuma- Çekme](https://colab.research.google.com/drive/1Bs32TuADmkN1GqMhanppIeqhq7NOjaz1)<br>
 Hafta 7 Ders 3 - 3 NB: [Bing Arama Motoruyla Görsel İndirme](https://colab.research.google.com/drive/1bQYFIHYVDuNk9W4kIEYzXspsMyDFs78W#scrollTo=milLutntZdTg)<br>
-Hafta 8 Ders 1: [Topluluk Öğrenme Modelleri (Ensemble Learning) - Müşteri Kayıp Analizi (Churn)](https://colab.research.google.com/drive/1fF2JBYCth4HPVdQlRcZO-fAWyPtWveWE)<br> Ödev notebook içinde
+Hafta 8 Ders 1: [Topluluk Öğrenme Modelleri (Ensemble Learning) - Müşteri Kayıp Analizi (Churn)](https://colab.research.google.com/drive/1fF2JBYCth4HPVdQlRcZO-fAWyPtWveWE) Ödev notebook içinde <br> 
 Hafta 8 Ders 2: [Zaman Serisi Analizi](https://colab.research.google.com/drive/1WFM2-LG8gtNcbjxycgxySDTkW2ZUnzr7)<br>
 
 
