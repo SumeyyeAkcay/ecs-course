@@ -26,6 +26,6 @@ Hafta 7 Ders 3 - 3 NB: [Bing Arama Motoruyla Görsel İndirme](https://colab.res
 Hafta 8 Ders 1: [Topluluk Öğrenme Modelleri (Ensemble Learning) - Müşteri Kayıp Analizi (Churn)](https://colab.research.google.com/drive/1fF2JBYCth4HPVdQlRcZO-fAWyPtWveWE) Ödev notebook içinde <br> 
 Hafta 8 Ders 2: [Zaman Serisi Analizi](https://colab.research.google.com/drive/1WFM2-LG8gtNcbjxycgxySDTkW2ZUnzr7)<br>
 Hafta 8 Ders 3: [Öneri Sistemleri](https://colab.research.google.com/drive/1d8dcTO1KsyBnbFqQeEoybzrKXu48ZaB9)<br>
-
+Hafta 9 Ders 1-2 Ödev 1: [İçerik Bazlı Öneri Arayüz](https://colab.research.google.com/drive/1d8dcTO1KsyBnbFqQeEoybzrKXu48ZaB9#scrollTo=X6dOPm--zVTA)<br>
 
 
