@@ -27,5 +27,5 @@ Hafta 8 Ders 1: [Topluluk Öğrenme Modelleri (Ensemble Learning) - Müşteri Ka
 Hafta 8 Ders 2: [Zaman Serisi Analizi](https://colab.research.google.com/drive/1WFM2-LG8gtNcbjxycgxySDTkW2ZUnzr7)<br>
 Hafta 8 Ders 3: [Öneri Sistemleri](https://colab.research.google.com/drive/1d8dcTO1KsyBnbFqQeEoybzrKXu48ZaB9)<br>
 Hafta 9 Ders 1-2 Ödev 1: [İçerik Bazlı Öneri Arayüz](https://colab.research.google.com/drive/1d8dcTO1KsyBnbFqQeEoybzrKXu48ZaB9#scrollTo=X6dOPm--zVTA)<br>
-
+Hafta 9 Ders 3: [HF Model Deploy](https://colab.research.google.com/drive/1BjYHZ_WyGER0EysKCsqVoG1yYo8u8ci4#scrollTo=pbDFfUWxND2I)<br>
 
