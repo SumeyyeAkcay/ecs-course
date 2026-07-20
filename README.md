@@ -28,4 +28,6 @@ Hafta 8 Ders 2: [Zaman Serisi Analizi](https://colab.research.google.com/drive/1
 Hafta 8 Ders 3: [Öneri Sistemleri](https://colab.research.google.com/drive/1d8dcTO1KsyBnbFqQeEoybzrKXu48ZaB9)<br>
 Hafta 9 Ders 1-2 Ödev 1: [İçerik Bazlı Öneri Arayüz](https://colab.research.google.com/drive/1d8dcTO1KsyBnbFqQeEoybzrKXu48ZaB9#scrollTo=X6dOPm--zVTA)<br>
 Hafta 9 Ders 3: [HF Model Deploy](https://colab.research.google.com/drive/1BjYHZ_WyGER0EysKCsqVoG1yYo8u8ci4#scrollTo=pbDFfUWxND2I)<br>
+Hafta 10 Ders 1: [HF Duygu Analizi Modeli](https://colab.research.google.com/drive/1ZWS_r6gKvERhsm0-EfREXidIXw78EtTD#scrollTo=2vYAl4XVvLrj)<br>
+
 
