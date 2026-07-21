@@ -29,5 +29,8 @@ Hafta 8 Ders 3: [Öneri Sistemleri](https://colab.research.google.com/drive/1d8d
 Hafta 9 Ders 1-2 Ödev 1: [İçerik Bazlı Öneri Arayüz](https://colab.research.google.com/drive/1d8dcTO1KsyBnbFqQeEoybzrKXu48ZaB9#scrollTo=X6dOPm--zVTA)<br>
 Hafta 9 Ders 3: [HF Model Deploy](https://colab.research.google.com/drive/1BjYHZ_WyGER0EysKCsqVoG1yYo8u8ci4#scrollTo=pbDFfUWxND2I)<br>
 Hafta 10 Ders 1: [HF Duygu Analizi Modeli](https://colab.research.google.com/drive/1ZWS_r6gKvERhsm0-EfREXidIXw78EtTD#scrollTo=2vYAl4XVvLrj)<br>
+Hafta 10 Ders 2: [GEMINI API ile Uygulamalar](https://colab.research.google.com/drive/1-WmCRhY0nKHM8fOm6i0BOuviVpYqW2uy)<br>
+Hafta 10 Ders 2 - 2 NB: [GEMINI API ile Uygulamalar - Devam](https://colab.research.google.com/drive/16KI2mmjhweNAQe-SaJcUPFh3ksXCYz_C)<br>
+
 
 
