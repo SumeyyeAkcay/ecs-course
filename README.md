@@ -32,6 +32,7 @@ Hafta 10 Ders 1: [HF Duygu Analizi Modeli](https://colab.research.google.com/dri
 Hafta 10 Ders 2: [GEMINI API ile Uygulamalar](https://colab.research.google.com/drive/1-WmCRhY0nKHM8fOm6i0BOuviVpYqW2uy)<br>
 Hafta 10 Ders 2 - 2 NB: [GEMINI API ile Uygulamalar - 2](https://colab.research.google.com/drive/16KI2mmjhweNAQe-SaJcUPFh3ksXCYz_C)<br>
 Hafta 10 Ders 3: [Haber Özetleme - HF Model](https://colab.research.google.com/drive/1WU6i3-ShJLuesaRSQNpmQ0RB7zMlQpSd)<br>
+Hafta 10 Ödev: [Metodolog AI](https://elevenlabs.io/app/talk-to?agent_id=agent_4801kyaezy8febw816qp1g94pm2n&branch_id=agtbrch_7601kyaezz0wekpbzxj36bykmp8f)<br>
 
 
 
