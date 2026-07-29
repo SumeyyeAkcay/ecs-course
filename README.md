@@ -34,5 +34,5 @@ Hafta 10 Ders 2 - 2 NB: [GEMINI API ile Uygulamalar - 2](https://colab.research.
 Hafta 10 Ders 3: [Haber Özetleme - HF Model](https://colab.research.google.com/drive/1WU6i3-ShJLuesaRSQNpmQ0RB7zMlQpSd)<br>
 Hafta 10 Ödev: [Metodolog AI](https://elevenlabs.io/app/talk-to?agent_id=agent_4801kyaezy8febw816qp1g94pm2n&branch_id=agtbrch_7601kyaezz0wekpbzxj36bykmp8f)<br>
 Hafta 11 Ders 1: [OpenCV Uygulamaları](https://colab.research.google.com/drive/1xBbubrTNXsmU9Wbw4VxVSzIrFwV6aX5c) [Streamlit Uygulaması](https://github.com/SumeyyeAkcay/siyah-beyaz)<br>
-
+Hafta 11 Ödev: [Streamlit OpenCV Görsel Siyah-Beyaz Uygulama](https://siyah-beyaz-ixa9fvrhajqqftofcqjihx.streamlit.app/)<br>
 
