@@ -38,4 +38,6 @@ Hafta 11 Ödev: [Streamlit OpenCV Görsel Siyah-Beyaz Uygulama](https://siyah-be
 Hafta 11 Ders 2: Vipe Coding (Antigravity Üzerinde Çalışmalar Yapıldı <br>
 Hafta 11 Ders 3: [Derin Öğrenme - Tek Nöron](https://colab.research.google.com/drive/1MlQV-FEWF3DWoZgj0qmG06GW4tfc7MNC)<br>
 Hafta 12 Ders 1: [MNIST Rakam Tanıma](https://colab.research.google.com/drive/1TgbGoEwOZje1zyIRhko-gppndi18biMQ)<br>
+Hafta 12 Ders 1 Devam: [ResNet ile Nesne Tanıma](https://colab.research.google.com/drive/10ZCTYRUUV_GPk1ICUzK65NRIFvhvvIDx)<br>
+
 
